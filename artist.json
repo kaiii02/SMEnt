@@ -5,63 +5,73 @@
             "real_name": "Kim Jun Myeon",
             "position": "Leader, Main Vocalist",
             "born_date": "22 Mei 1991",
-            "instagram": "@kimjuncotton"
+            "instagram": "@kimjuncotton",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/suho.jpg"
         },
         {
             "stage_name": "Xiumin",
             "real_name": "Kim Min Seok",
             "position": "Lead Vocalist, Lead Dancer, Rapper",
             "born_date": "26 Maret 1990",
-            "instagram": "@e_xiu_o"
+            "instagram": "@e_xiu_o",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/xiumin.jpg"
         },
         {
             "stage_name": "Chen",
             "real_name": "Kim Jong Dae",
             "position": "Main Vocalist",
             "born_date": "21 September 1992",
-            "instagram": "-"
+            "instagram": "-",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/chen.jpg"
         },
         {
             "stage_name": "Chanyeol",
             "real_name": "Park Chan Yeol",
             "position": "Main Rapper, Vocalist",
             "born_date": "27 November 1992",
-            "instagram": "@real__pcy"
+            "instagram": "@real__pcy",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/chanyeol.jpg"
         },
         {
             "stage_name": "Lay",
             "real_name": "Zhang Yixing",
             "position": "Main Dancer, Vocalist",
             "born_date": "7 Oktober 1991",
-            "instagram": "@layzhang"
+            "instagram": "@layzhang",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/lay.jpg"
         },
         {
             "stage_name": "Baekhyun",
             "real_name": "Byun Baek Hyun",
             "position": "Main Vocalist",
             "born_date": "6 Mei 1992",
-            "instagram": "@baekhyunee_exo"
+            "instagram": "@baekhyunee_exo",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/baekhyun.jpg"
         },
         {
             "stage_name": "D.O",
             "real_name": "Do Kyung Soo",
             "position": "Main Vocalist",
             "born_date": "12 Januari 1993",
-            "instagram": "@d.o.hkyungsoo"
+            "instagram": "@d.o.hkyungsoo",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/do.jpg"
         },
         {
             "stage_name": "Kai",
             "real_name": "Kim Jong In",
             "position": "Main Dancer, Vocalist, Rapper",
             "born_date": "14 Januari 1994",
-            "instagram": "@zkdlin"
+            "instagram": "@zkdlin",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/kai.jpg"
         },
         {
             "stage_name": "Sehun",
             "real_name": "Oh Se Hun",
             "position": "Main Dancer, Rapper",
             "born_date": "7 Oktober 1991",
-            "instagram": "@oohsehun"
+            "instagram": "@oohsehun",
+            "photo": "https://github.com/kaiii02/SMEnt/blob/main/EXO/sehun.jpg"
         }
     ]
+
 }
